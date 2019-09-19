@@ -11,7 +11,7 @@ package Text;
  */
 public class Text {
     private String name;
-
+private int no;
     /**
      * @return the name
      */
@@ -24,5 +24,19 @@ public class Text {
      */
     public void setName(String name) {
         this.name = name;
+    }
+
+    /**
+     * @return the no
+     */
+    public int getNo() {
+        return no;
+    }
+
+    /**
+     * @param no the no to set
+     */
+    public void setNo(int no) {
+        this.no = no;
     }
 }
