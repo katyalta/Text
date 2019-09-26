@@ -8,6 +8,7 @@ package Text;
 /**
  *
  * @author tanya
+ *surname katyal
  */
 public class Text {
     private String name;
